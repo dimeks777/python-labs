@@ -1,0 +1,10 @@
+Collecting yahoofinancials
+  Downloading yahoofinancials-1.6.tar.gz (27 kB)
+Requirement already satisfied: beautifulsoup4 in c:\users\dimek\pycharmprojects\lab13\venv\lib\site-packages (from yahoofinancials) (4.9.3)
+Requirement already satisfied: pytz in c:\users\dimek\pycharmprojects\lab13\venv\lib\site-packages (from yahoofinancials) (2021.1)
+Requirement already satisfied: soupsieve>1.2 in c:\users\dimek\pycharmprojects\lab13\venv\lib\site-packages (from beautifulsoup4->yahoofinancials) (2.2.1)
+Using legacy 'setup.py install' for yahoofinancials, since package 'wheel' is not installed.
+Installing collected packages: yahoofinancials
+    Running setup.py install for yahoofinancials: started
+    Running setup.py install for yahoofinancials: finished with status 'done'
+Successfully installed yahoofinancials-1.6

@@ -1,0 +1,13 @@
+name: app
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - flask
+  - gunicorn
+  - pip==20.2.3
+  - python==3.8
+  - pip:
+    - -r file:requirements.txt

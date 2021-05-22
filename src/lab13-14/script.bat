@@ -1,0 +1,1 @@
+"C:\Users\dimek\PycharmProjects\lab13\venv\Scripts\python.exe" "C:\Users\dimek\PycharmProjects\lab13\main.py"
