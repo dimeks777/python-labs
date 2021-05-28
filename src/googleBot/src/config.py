@@ -1,0 +1,9 @@
+TOKEN = '1722024720:AAGow4F_G-hJsNRgiZhaZIclx7wLaLfvzJE'
+CHAT_ID = -1001397316957
+DB_NAME = 'bot'
+DB_USER = 'root'
+DB_HOST = 'localhost'
+DB_PORT = 3306
+DB_PASSWORD = 'dimeks777'
+GOOGLE_FORM = "https://docs.google.com/forms/d/e/1FAIpQLScPOwSMif3wL4hs6sihUyJTdvC3tAuOFk9FB8iSMBNf4jfVaw/viewform?usp=pp_url&entry.585659752={}&entry.828758508={}"
+MY_ID = 350493439
